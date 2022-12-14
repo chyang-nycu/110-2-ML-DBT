@@ -1,5 +1,5 @@
 # 110-2-ML-DBT
-# Course Name : MATLAB Progamming for Machine Learning (Graduate)
+## Course Name : MATLAB Progamming for Machine Learning (Graduate)
 
 ## Teaching Materal : 
 講義：http://cflu.lab.nycu.edu.tw/CFLu_course_matlabml.html
